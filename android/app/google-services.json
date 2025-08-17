@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996274370206",
+    "project_id": "miniplays-d7191",
+    "storage_bucket": "miniplays-d7191.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996274370206:android:14a9ec4a4f814d20f4ed8f",
+        "android_client_info": {
+          "package_name": "com.example.miniplays"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9oN57FFNiyQUUW4EDY7dvOK__EQnucMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
